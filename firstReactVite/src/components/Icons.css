@@ -1,0 +1,16 @@
+.icons {
+    color: #202536;
+    font-size: larger;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.icon {
+    padding: 50px;
+}
+
+p {
+    color: #A7A7A7;
+
+}
